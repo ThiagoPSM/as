@@ -5,10 +5,14 @@
  */
 package com.mycompany.poo4;
 
+
 /**
  *
  * @author user
  */
 public class NewClass {
+    
+    
+    //hola 
     
 }
